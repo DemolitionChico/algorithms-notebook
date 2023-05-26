@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{694B2B24-B448-4CD3-8863-E6A7D5F32060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsAndDataStructures", "src\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures.csproj", "{EDA284EB-4818-459B-8EAF-E0FC56F26B26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{18203E88-ECCC-4991-AFAA-70F3752F8CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsNotebookTests", "tests\AlgorithmsNotebookTests\AlgorithmsNotebookTests.csproj", "{74470A5C-E99D-4670-B35A-6DCA2BD65A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDA284EB-4818-459B-8EAF-E0FC56F26B26} = {694B2B24-B448-4CD3-8863-E6A7D5F32060}
+		{74470A5C-E99D-4670-B35A-6DCA2BD65A00} = {18203E88-ECCC-4991-AFAA-70F3752F8CA9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA284EB-4818-459B-8EAF-E0FC56F26B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA284EB-4818-459B-8EAF-E0FC56F26B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA284EB-4818-459B-8EAF-E0FC56F26B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA284EB-4818-459B-8EAF-E0FC56F26B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74470A5C-E99D-4670-B35A-6DCA2BD65A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74470A5C-E99D-4670-B35A-6DCA2BD65A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74470A5C-E99D-4670-B35A-6DCA2BD65A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74470A5C-E99D-4670-B35A-6DCA2BD65A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
